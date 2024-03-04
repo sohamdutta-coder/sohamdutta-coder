@@ -1,4 +1,4 @@
-![logo](https://github.com/sohamdutta-coder/sohamdutta-coder/blob/main/Github%20Banner.png)
+<p align="center"><img src=https://github.com/sohamdutta-coder/sohamdutta-coder/blob/main/Github%20Banner.png></p>
 <h1 align="center">Hi 👋, I'm Soham Dutta</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
