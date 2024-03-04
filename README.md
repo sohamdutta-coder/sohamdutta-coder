@@ -6,13 +6,18 @@
 **
 **
 **
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me on:</h3>
+<p align="left">
+<a href="https://codepen.io/soham-dutta-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soham-dutta-the-bold" height="30" width="40" /></a>
 <a href="https://twitter.com/i_am_sohamdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_sohamdutta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sohamdutta-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamdutta-coder" height="30" width="40" /></a>
+<a href="https://fb.com/sohamdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohamdutta" height="30" width="40" /></a>
 <a href="https://instagram.com/sohamdutta_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohamdutta_13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sohamdutta13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohamdutta13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sohamdutta_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohamdutta_13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soham132002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soham132002" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/soham138jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham138jg" height="30" width="40" /></a>
+<a href="https://discord.gg/soham#5134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soham#5134" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
