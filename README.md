@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soham Dutta</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
-<p align="center"><img align="center" alt="coding" width="900" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952odg7pzz0vmukgt5s6jna8ui3892c0nyd5x2aysh6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></p>
+<p align="center"><img align="center" alt="coding" width="600" height="100" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952odg7pzz0vmukgt5s6jna8ui3892c0nyd5x2aysh6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></p>
 <p>&nbsp;</p>
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
