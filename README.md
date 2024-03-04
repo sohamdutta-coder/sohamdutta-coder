@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952odg7pzz0vmukgt5s6jna8ui3892c0nyd5x2aysh6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-
+**
+**
+**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/i_am_sohamdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_sohamdutta" height="30" width="40" /></a>
